@@ -1,0 +1,39 @@
+
+
+body {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    
+}
+
+.post {
+    width: 60%;
+}
+
+img {
+    width: 100%;
+    
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.left-header {
+    display:flex;
+    align-items: row;
+    justify-content:flex-start;
+}
+
+.fa-ellipsis-vertical {
+    justify-content: flex-end;
+}
+
+.post-icons {
+    display: flex;   
+    justify-content: space-between;   
+}
+
